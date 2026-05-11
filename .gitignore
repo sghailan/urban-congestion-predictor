@@ -1,0 +1,17 @@
+data/
+enunciado/
+informe/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv*/
+*.egg-info/
+
+.jupyter/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
