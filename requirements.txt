@@ -5,3 +5,15 @@ matplotlib
 seaborn
 
 ipywidgets
+
+scikit-learn
+
+optuna
+
+shap
+
+xgboost
+
+catboost
+
+imblearn
